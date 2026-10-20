@@ -1,0 +1,8 @@
+# arquivos do sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# brutos e testes ficam fora do repositorio (pastas *-review ao lado dos sites)
+*-review/
+*.zip
